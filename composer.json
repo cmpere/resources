@@ -1,0 +1,16 @@
+{
+    "name": "lia-tec/resources",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LiaTec\\Resources\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Charly",
+            "email": "carlos@envioskanguro.com"
+        }
+    ],
+    "require": {}
+}
